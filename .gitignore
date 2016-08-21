@@ -1,0 +1,5 @@
+node_modules/
+privateconfig.json
+flight_price.csv
+geckodriver
+chromedriver

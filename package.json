@@ -1,0 +1,22 @@
+{
+  "name": "flight_tracker",
+  "version": "0.0.1",
+  "description": "flight price tracker",
+  "main": "startScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "flight_tracker"
+  },
+  "author": "swissglider",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "dogapi": "^2.3.1",
+    "progress": "^1.1.8",
+    "selenium-webdriver": "^2.53.3",
+    "ya-csv": "^0.9.4"
+  }
+}
